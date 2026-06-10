@@ -1,6 +1,6 @@
-# 📚 Biblioteca do Desenvolvedor
+# 📚 Biblioteca de Alexandria pro Desenvolvedor
 
-> Uma coleção curada de livros essenciais para o mundo da programação, reunindo dois grandes repositórios de referência.
+> Uma coleção curada de livros essenciais para o mundo da tecnologia, reunindo dois grandes repositórios de referência.
 
 ---
 
